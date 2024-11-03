@@ -185,9 +185,6 @@ CoreNotices					= {				-- Modify core notices. You can find a table of all CoreN
 	--NoticeName = NoticeDetails;
 };
 
-
-
-
 --------------| MODIFY COMMANDS |--------------
 SetCommandRankByName = {
 	--["jump"] = "VIP";
@@ -195,12 +192,5 @@ SetCommandRankByName = {
 SetCommandRankByTag = {
 	--["abusive"] = "Admin";
 };
-
-
-
-
-
-
-
 
 };
